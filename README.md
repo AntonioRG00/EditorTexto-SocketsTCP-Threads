@@ -3,6 +3,7 @@ Mini proyecto de un editor de texto que hice hace tiempo, pero esta vez el texto
 por cada instancia de una conexión se lanzará un thread servidor que gestionará al cliente. El modelo de la aplicación usa una topología en estrella.
 
 **El proyecto usa maven por lo que al clonarlo hay que convertirlo a maven project**
+
 **El proyecto usa encoding UTF-8 ir a Window->Preferences->General->Workspace->Encoding en UTF-8**
 
 # Demostración
